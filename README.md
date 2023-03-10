@@ -1,3 +1,3 @@
-# Exercises for the Computer Vision course
+# Computer Vision exercises
 
   #exercise1
