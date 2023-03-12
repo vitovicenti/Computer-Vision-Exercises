@@ -1,3 +1,4 @@
 # Computer Vision exercises
 
-  #exercise1
+  # Exercise 1 - Color Spaces
+  # Exercise 2 - Drawing
